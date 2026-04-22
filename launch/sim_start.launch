@@ -4,7 +4,7 @@
   <arg name="enable_keyboard" default="true"/>
   <arg name="enable_joystick" default="false"/>
   <arg name="joystick_device" default="/dev/input/js0"/>
-  <arg name="enable_gui" default="true"/>
+  <arg name="enable_gui" default="false"/>
   <arg name="enable_rviz" default="true"/>
   <arg name="robot_xacro" default="$(find girona500_description)/urdf/payload.urdf.xacro"/>
 

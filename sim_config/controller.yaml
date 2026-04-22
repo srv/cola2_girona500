@@ -41,7 +41,7 @@ thruster_5_max_force_positive: 90.0
 thruster_5_max_force_negative: 90.0
 
 # Enable thrusters
-enable_thrusters: false
+enable_thrusters: true
 
 # Maximum velocity for each DOF
 max_velocity_x: 0.5
